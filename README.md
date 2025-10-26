@@ -1,7 +1,8 @@
 # SQL_through_practice
 I am acquiring SQL skills through hands-on practice and real-world applications.
 
-SECTION-1: Here is what I have learned:
+SECTION-1: Customer table: 
+Here is what I have learned:
 
 What are the basic SQL commands?
 
