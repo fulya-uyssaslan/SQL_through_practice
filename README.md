@@ -1,7 +1,7 @@
 # SQL_through_practice
 I am acquiring SQL skills through hands-on practice and real-world applications.
 
-SECTION-1: Customer table: 
+SECTION-1: Customers table: 
 Here is what I have learned:
 
 What are the basic SQL commands?
